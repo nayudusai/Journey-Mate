@@ -173,7 +173,7 @@ cd Journeymate
 ## Build the application in the local IDE
 
 ```bash
-mvn clean Installation
+mvn clean install
 ```
 
 ## Run the application 
