@@ -161,7 +161,7 @@ Confirmation --> User
 
 Clone the project from github 
 ```bash
-git clone https://github.com/your-username/journey-mate.git
+git clone https://github.com/nayudusai/Journey-Mate.git
 ```
 
 Navigate to project directory 
