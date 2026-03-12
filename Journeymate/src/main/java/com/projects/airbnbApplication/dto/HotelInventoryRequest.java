@@ -1,0 +1,16 @@
+package com.projects.airbnbApplication.dto;
+
+import lombok.Data;
+
+import java.time.LocalDate;
+
+@Data
+public class HotelInventoryRequest {
+    private String city;
+    private LocalDate startDate;
+    private LocalDate endDate;
+    private Integer roomsCount;
+
+    private Integer page=0;
+    private Integer size=10;
+}
